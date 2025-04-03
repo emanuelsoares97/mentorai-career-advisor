@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>MentorAI - Início</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>🎯 Descobre tua carreira ideal</h1>
+    <form method="POST" action="/quiz">
+      <label>Qual é o teu nome?</label>
+      <input type="text" name="nome" required>
+      <button type="submit">Começar</button>
+    </form>
+  </div>
+</body>
+</html>
