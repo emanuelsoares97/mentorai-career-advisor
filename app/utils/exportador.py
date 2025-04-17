@@ -24,7 +24,7 @@ def exportar_csv(json_path="historico_resultados.json", csv_path="historico_resu
             ])
 
 
-    print(f"✅ CSV gerado com sucesso em '{csv_path}'!")
+    print(f"CSV gerado com sucesso em '{csv_path}'!")
 
 
 if __name__ == '__main__':

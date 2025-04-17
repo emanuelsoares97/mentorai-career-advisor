@@ -22,5 +22,17 @@
     },
     "carreira_principal": "Especialista em Cibersegurança",
     "sugestao_secundaria": "DevOps"
+  },
+  {
+    "data": "2025-04-17 18:20:27",
+    "nome": "Emanuel",
+    "respostas": {
+      "logica": true,
+      "visual": false,
+      "dados": false,
+      "seguranca": false
+    },
+    "carreira_principal": "Backend Developer",
+    "sugestao_secundaria": "Cientista de Dados"
   }
 ]
